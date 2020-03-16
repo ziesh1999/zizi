@@ -52,7 +52,7 @@ color: #f7bf29;
     height: 38%;
 }
 .main-page{
-background: url('../images/construction.jpeg');
+background: url("construction.jpeg");
 background-size: cover;
 padding: 150px;
 text-align: center;
