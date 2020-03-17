@@ -52,15 +52,78 @@ color: #f7bf29;
     height: 38%;
 }
 .main-page{
-background: url("construction.jpeg");
+background: url('../images/construction.jpeg');
 background-size: cover;
-padding: 150px;
+padding: 180px;
 text-align: center;
 color: white;
 }
 .main-page h3{
    color: #f7bf29;
 }
+.main-page button{
+    padding: 15px 30px;
+    background: #f6b60d;
+    border: none;
+    font-size: 25px;
+}
+.main-content-page{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+    background:#f5f5f5;
+}
+.main-content-page i{
+    color: #f6b60d;
+    font-size: 45px;
+}
+.main-content-page h5, p, i{
+    margin: 35px 0 0 0;
+}
+.main-content-page h5{
+    font-weight: bold;
+    font-size: 25px;
+}
+.about-us{
+    text-align: center;
+}
+hr{
+    width: 5%;
+    border: 3px solid #f6b60d;
+}
+.About-Us-content{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 69px 15px 0 15px;
+}
+.About-content h4{
+    font-size: 35px;
+}
+.About-content h6{
+    background: #111f29;
+    width: 16%;
+    height: 2px;
+}
+.About-content button{
+    padding: 15px 30px;
+    margin: 20px 0 0 0;
+    border: none;
+    background: #f6b60d;
+    font-size: 20px;
+}
+.What-We-Offer-container{
+    background-color: #f6b60d;
+    
+}
+.What-We-Offer{
+    text-align: center;
+}
+hr{
+    width: 4%;
+    border: 2px solid white;
+}
+
+
 
 
 
