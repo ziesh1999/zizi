@@ -113,6 +113,7 @@ hr{
 }
 .What-We-Offer-container{
     background-color: #f6b60d;
+
     
 }
 .What-We-Offer{
@@ -122,6 +123,37 @@ hr{
     width: 4%;
     border: 2px solid white;
 }
+.image1 img{
+    width: 90%;
+}
+.image2 img{
+    width: 90%;
+}
+.image3 img{
+    width: 90%;
+}
+.images{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 44px 60px;
+}
+.paragraph-container{
+    text-align: center;
+}
+.images1{
+    background: #fff;
+    width: 92%;
+}
+.images2{
+    background: #fff;
+    width: 92%;
+}
+.images3{
+    background: #fff;
+    width: 92%;
+}
+
+
 
 
 
